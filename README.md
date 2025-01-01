@@ -54,9 +54,3 @@ I welcome your feedback and suggestions to improve this project. Feel free to op
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
----
-
-Thank you for exploring my Power BI project in the hospitality domain! If you have any questions, feel free to reach out.
-```
-
-You can copy this and save it as your `README.md` file in your repository. Let me know if further adjustments are needed!
